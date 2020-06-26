@@ -1,6 +1,7 @@
 # Banner-on-terminal
-Extract this files on /home/<"your-username">/
+Extract folder and start install.sh to install a banner
 # THIS BANNER WORK ON LINUX
 All of distributions
-# ATTENTION
-You need a extract a files to /home/<"your-username">/, not a folder.
+# COMMANDS TO INSTALL
+chmod +x install.sh
+./install.sh
